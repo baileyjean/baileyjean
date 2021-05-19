@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @baileyjean
 - 👀 I’m interested in software engineering, data science, and machine learning/AI.
-- 🌱 I’m currently learning in Javascript and Python.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on beginner projects!
 - 📫 How to reach me cultlikeminds@gmail.com.
 
